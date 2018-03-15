@@ -3,7 +3,13 @@ body {
 }
 
 div {
-  border: 1px;
-  border-style: solid;
-  color: gray;
+}
+
+.white-bg {
+  background-color: white;
+  border: 1px solid blue;
+}
+
+.center {
+  text-align: center;
 }
